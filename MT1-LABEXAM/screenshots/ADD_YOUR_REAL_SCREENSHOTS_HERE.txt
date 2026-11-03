@@ -1,0 +1,8 @@
+Save your own screenshots in this folder after running the project:
+1. HTTP server terminal
+2. /home page
+3. /books JSON
+4. Express server terminal
+5. GET all and GET by ID
+6. POST, PUT and DELETE EchoAPI responses
+7. GitHub repository and commit history
